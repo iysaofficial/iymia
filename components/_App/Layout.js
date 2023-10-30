@@ -1,6 +1,6 @@
-import React from "react";
-import Head from "next/head";
-import GoTop from "./GoTop";
+import React from 'react';
+import Head from 'next/head';
+import GoTop from './GoTop';
 // import Preloader from './Preloader';
 
 const Layout = ({ children }) => {
@@ -15,17 +15,10 @@ const Layout = ({ children }) => {
       <Head>
         {/* Required meta tags */}
         <meta charSet="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-
-        <script
-          async
-          src="https://www.googletagmanager.com/gtag/js?id=G-3447ZSC19E"
-        ></script>
-        <script>
-          window.dataLayer = window.dataLayer || []; function gtag()
-          {dataLayer.push(arguments)}; gtag('js', new Date()); gtag('config',
-          'G-3447ZSC19E');
-        </script>
+        <meta
+          name="viewport"
+          content="width=device-width, initial-scale=1"
+        />
 
         <title>IYMIA - Official Event</title>
       </Head>
