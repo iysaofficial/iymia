@@ -1,6 +1,17 @@
+.badge {
+  color: #262a37;
+}
+
+.faq-title h2 {
+  text-decoration: underline #006838;
+  cursor: pointer;
+}
+
+
 .faq-accordion .accordion {
   padding: 15px;
   border: none;
+  cursor: pointer;
 }
 
 .faq-accordion .accordion .accordion__item {
@@ -8,6 +19,7 @@
   margin-bottom: 30px;
   border-radius: 0;
   border: none;
+  cursor: pointer;
 }
 
 .faq-accordion .accordion .accordion__item .accordion__button {
@@ -22,6 +34,7 @@
   border-bottom: 1px solid #eeeeee;
   font-size: 18px;
   font-weight: 600;
+  cursor: pointer;
 }
 
 .faq-accordion .accordion .accordion__item .accordion__button:focus {
@@ -76,6 +89,7 @@
 
 .faq-accordion .accordion .accordion__item .accordion__panel p a {
   color: var(--mainColor);
+  cursor: pointer;
 }
 
 .faq-accordion .accordion .accordion__item .accordion__panel p a:hover {
@@ -97,6 +111,7 @@
 
 .faq-accordion .accordion .accordion__item .accordion__panel ul li a {
   color: var(--mainColor);
+  cursor: pointer;
 }
 
 .faq-accordion .accordion .accordion__item .accordion__panel ul li a:hover {
