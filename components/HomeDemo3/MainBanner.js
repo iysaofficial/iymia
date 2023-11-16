@@ -12,9 +12,9 @@ const MainBanner = () => {
               <div className="banner-wrapper-content">
                 <span className="sub-title">COMING SOON 2024</span>
                 <h1>International Young Moslem Inventor Award</h1>
-                {/* <a href="https://docs.google.com/forms/d/e/1FAIpQLScXpC2y4PjBWk81Ygmyt4oh3lTVLGjqNPYc-nAMp_GZTSV1WQ/viewform?usp=share_link">
+                <a href="https://bit.ly/IYMIA-2024" target='_blank'>
                   <a className="default-btn">Register Now!</a>
-                </a> */}
+                </a>
               </div>
             </div>
             <div className="col-lg-7 col-md-12">
@@ -23,8 +23,15 @@ const MainBanner = () => {
                   <img src="/images/banner/banner-img1.png" alt="banner-img" />
                 </div> */}
                 <div className="banner-img">
-                  <ScrollAnimation animateIn="fadeInLeft" animateOnce={true} initiallyVisible={true}>
-                    <img src="/images/banner/banner-moslem.png" alt="banner-img" />
+                  <ScrollAnimation
+                    animateIn="fadeInLeft"
+                    animateOnce={true}
+                    initiallyVisible={true}
+                  >
+                    <img
+                      src="/images/banner/banner-moslem.png"
+                      alt="banner-img"
+                    />
                   </ScrollAnimation>
                 </div>
               </div>

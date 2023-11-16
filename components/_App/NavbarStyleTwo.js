@@ -416,8 +416,7 @@ const NavbarStyleTwo = () => {
                   </li> */}
                   <li className="nav-item">
                     <a
-                      href=" https://drive.google.com/file/d/1AulhlH0qq9_cG8VJN39Ldd3JmDwx6qoP/view?usp=share_link 
-                              "
+                      href="https://drive.google.com/file/d/12KOp3B-GrDc1hqY72C8AGAp-FswmCK0Q/view?usp=sharing"
                       target="_blank"
                       activeClassName="active"
                     >
