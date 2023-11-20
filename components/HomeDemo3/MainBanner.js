@@ -10,7 +10,7 @@ const MainBanner = () => {
           <div className="row align-items-center">
             <div className="col-lg-5 col-md-12">
               <div className="banner-wrapper-content">
-                <span className="sub-title">Welcome</span>
+                <span className="sub-title">Opeen Registration</span>
                 <h1>International Young Moslem Inventor Award</h1>
                 <a href="https://bit.ly/IYMIA-2024" target='_blank'>
                   <a className="default-btn">Register Now!</a>
