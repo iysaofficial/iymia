@@ -11,7 +11,7 @@ const MainBanner = () => {
             <div className="col-lg-5 col-md-12">
               <div className="banner-wrapper-content">
                 <span className="sub-title">Open Registration</span>
-                <h1>International Young Moslem Inventor Award</h1>
+                <h1>International Young Moslem Inventor Award 2024</h1>
                 <a href="https://bit.ly/IYMIA-2024" target='_blank'>
                   <a className="default-btn">Register Now!</a>
                 </a>
