@@ -38,7 +38,7 @@ const AppScreenshotsStyle6 = () => {
               </TabPanel>
 
               <TabPanel>
-                <img src="/images/screenshots/booth.png" alt="screenshots" />
+                <img src="/images/screenshots/boothnew.png" alt="screenshots" />
               </TabPanel>
 
               {/* <TabPanel>
