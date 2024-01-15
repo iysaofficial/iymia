@@ -31,7 +31,7 @@ function Faq() {
       no: "3",
       question: "Where do you upload the competition file?",
       answer:
-        "The drive link for uploading files and the link for uploading proof of payment will be included in the invoice. You will get an invoice like this",
+        "The drive link for uploading files and the link for uploading proof of payment will be included in the invoice.",
     },
     {
       no: "4",
