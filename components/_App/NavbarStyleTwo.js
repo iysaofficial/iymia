@@ -128,6 +128,20 @@ const NavbarStyleTwo = () => {
                           </a>
                         </Link>
                       </li>
+                      <li className="nav-item">
+                        <Link
+                          href="https://drive.google.com/file/d/15kh-LQZkfM7OIu_JuRLl7LhLanf5QdwE/view?usp=sharing"
+                          activeClassName="active"
+                        >
+                          <a
+                            onClick={toggleNavbar}
+                            className="nav-link"
+                            target="_blank"
+                          >
+                            Press Release 2023
+                          </a>
+                        </Link>
+                      </li>
                     </ul>
                   </li>
 
