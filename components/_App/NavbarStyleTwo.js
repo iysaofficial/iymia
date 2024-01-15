@@ -130,7 +130,7 @@ const NavbarStyleTwo = () => {
                       </li>
                       <li className="nav-item">
                         <Link
-                          href="https://drive.google.com/file/d/15kh-LQZkfM7OIu_JuRLl7LhLanf5QdwE/view?usp=sharing"
+                          href="https://drive.google.com/drive/u/2/folders/1JzQ9rkpVwFxUsfhQOG9grbg3SX3eMWP7"
                           activeClassName="active"
                         >
                           <a
@@ -138,7 +138,7 @@ const NavbarStyleTwo = () => {
                             className="nav-link"
                             target="_blank"
                           >
-                            Press Release 2023
+                            Press Release 2024
                           </a>
                         </Link>
                       </li>
