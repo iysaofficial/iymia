@@ -10,10 +10,10 @@ const MainBanner = () => {
           <div className="row align-items-center">
             <div className="col-lg-5 col-md-12">
               <div className="banner-wrapper-content">
-                <span className="sub-title">Close Registration</span>
-                <h1>International Young Moslem Inventor Award 2024</h1>
+                <span className="sub-title">Coming Soon 2025</span>
+                <h1>International Young Moslem Inventor Award 2025</h1>
                 <a href="">
-                  <a className="default-btn">Close Registration</a>
+                  <a className="default-btn">Coming Soon 2025</a>
                 </a>
               </div>
             </div>
