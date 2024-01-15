@@ -157,6 +157,33 @@ const NavbarStyleTwo = () => {
                       </li>
                     </ul>
                   </li>
+
+                  <li className="nav-item">
+                    <Link href="#" activeClassName="active">
+                      <a
+                        onClick={toggleNavbar}
+                        className=" dropdown-toggle nav-link"
+                      >
+                        List of Winner
+                      </a>
+                    </Link>
+                    <ul className="dropdown-menu">
+                      <li className="nav-item">
+                        <Link
+                          href="https://drive.google.com/file/d/1EdXehE5LICfaWHsmkZPyB4DPvIaFSlD1/view?usp=sharing"
+                          activeClassName="active"
+                        >
+                          <a
+                            onClick={toggleNavbar}
+                            className="nav-link"
+                            target="_blank"
+                          >
+                            List of Winner 2023
+                          </a>
+                        </Link>
+                      </li>
+                    </ul>
+                  </li>
                   {/* <ul className="dropdown-menu">
                       <li className="nav-item">
                         <Link href="#" activeClassName="active">
