@@ -130,7 +130,7 @@ const NavbarStyleTwo = () => {
                       </li>
                       <li className="nav-item">
                         <Link
-                          href="https://drive.google.com/drive/u/2/folders/1JzQ9rkpVwFxUsfhQOG9grbg3SX3eMWP7"
+                          href="https://drive.google.com/file/d/1UVCaBsvxjac-0OF7VCAOfPJEOvskYBsz/view?usp=sharing"
                           activeClassName="active"
                         >
                           <a
@@ -193,6 +193,20 @@ const NavbarStyleTwo = () => {
                             target="_blank"
                           >
                             List of Winner 2023
+                          </a>
+                        </Link>
+                      </li>
+                      <li className="nav-item">
+                        <Link
+                          href="https://drive.google.com/file/d/1EdXehE5LICfaWHsmkZPyB4DPvIaFSlD1/view?usp=sharing"
+                          activeClassName="active"
+                        >
+                          <a
+                            onClick={toggleNavbar}
+                            className="nav-link"
+                            target="_blank"
+                          >
+                            List of Winner 2024
                           </a>
                         </Link>
                       </li>
