@@ -520,6 +520,13 @@ const NavbarStyleTwo = () => {
                           </a>
                         </Link>
                       </li>
+                      <li className="nav-item">
+                        <Link href="https://drive.google.com/drive/folders/1v7k8qwGLENT3xXQHNN5yDR2dq6POKUaR?usp=sharing" target="_blank" activeClassName="active">
+                          <a onClick={toggleNavbar} className="nav-link">
+                            Gallery 2024
+                          </a>
+                        </Link>
+                      </li>
                     </ul>
                   </li>
 
