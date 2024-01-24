@@ -19,7 +19,9 @@ const News = () => {
                 time. Once again held in Bogor, GYIIF and IYMIA succeeded in
                 inviting 61 teams to attend directly to the venue. Even though
                 at this event there were no participants from abroad taking part
-                in the offline competition...
+                in the offline competition what was great about this competition
+                could be said that we had participants from Sabang to Merauke
+                because we had participants from Jambi and Sorong...
               </p>
               <a href="/news1" class="btn btn-primary">
                 View
@@ -30,7 +32,7 @@ const News = () => {
         <div class="col-sm-4">
           <div class="card">
             <div class="card-body">
-              <img src="../images/news/iymia2.jpg" ></img>
+              <img src="../images/news/iymia2.jpg"></img>
               <h5 class="card-title mt-3">
                 Unsoed students win gold medals at the 2024 IYMIA international
                 competition
