@@ -8,7 +8,7 @@
     "build": "next build && next export",
     "start": "next start"
   },
-  "author": "github.com/redheet",
+  "author": "iysa",
   "license": "ISC",
   "dependencies": {
     "@react-three/cannon": "^6.3.0",

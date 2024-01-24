@@ -115,6 +115,13 @@ const NavbarStyleTwo = () => {
                     </Link>
                     <ul className="dropdown-menu">
                       <li className="nav-item">
+                        <Link href="/news" activeClassName="active">
+                          <a onClick={toggleNavbar} className="nav-link">
+                            News
+                          </a>
+                        </Link>
+                      </li>
+                      <li className="nav-item">
                         <Link
                           href="https://drive.google.com/file/d/15kh-LQZkfM7OIu_JuRLl7LhLanf5QdwE/view?usp=sharing"
                           activeClassName="active"
@@ -521,7 +528,11 @@ const NavbarStyleTwo = () => {
                         </Link>
                       </li>
                       <li className="nav-item">
-                        <Link href="https://drive.google.com/drive/folders/1v7k8qwGLENT3xXQHNN5yDR2dq6POKUaR?usp=sharing" target="_blank" activeClassName="active">
+                        <Link
+                          href="https://drive.google.com/drive/folders/1v7k8qwGLENT3xXQHNN5yDR2dq6POKUaR?usp=sharing"
+                          target="_blank"
+                          activeClassName="active"
+                        >
                           <a onClick={toggleNavbar} className="nav-link">
                             Gallery 2024
                           </a>
