@@ -5,7 +5,7 @@ const News2 = () => {
     <>
       <div class="card mb-3 mt-5 mb-5">
         <img
-          src="../images/news/iymia3.WebP"
+          src="../images/news/iymia3.jpg"
           class="card-img-top col-sm-3 mt-2"
           alt="..."
         />

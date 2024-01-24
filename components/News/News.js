@@ -54,7 +54,7 @@ const News = () => {
         <div class="col-sm-4">
           <div class="card">
             <div class="card-body">
-              <img src="../images/news/iymia3.WebP"></img>
+              <img src="../images/news/iymia3.jpg"></img>
               <h5 class="card-title mt-3">
                 Proud, Unusida Students Win Silver Medals in International
                 Events
