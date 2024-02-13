@@ -121,20 +121,7 @@ const NavbarStyleTwo = () => {
                           </a>
                         </Link>
                       </li>
-                      <li className="nav-item">
-                        <Link
-                          href="https://drive.google.com/file/d/15kh-LQZkfM7OIu_JuRLl7LhLanf5QdwE/view?usp=sharing"
-                          activeClassName="active"
-                        >
-                          <a
-                            onClick={toggleNavbar}
-                            className="nav-link"
-                            target="_blank"
-                          >
-                            Press Release 2023
-                          </a>
-                        </Link>
-                      </li>
+                      
                       <li className="nav-item">
                         <Link
                           href="https://drive.google.com/file/d/1UVCaBsvxjac-0OF7VCAOfPJEOvskYBsz/view?usp=sharing"
@@ -146,6 +133,21 @@ const NavbarStyleTwo = () => {
                             target="_blank"
                           >
                             Press Release 2024
+                          </a>
+                        </Link>
+                      </li>
+
+                      <li className="nav-item">
+                        <Link
+                          href="https://drive.google.com/file/d/15kh-LQZkfM7OIu_JuRLl7LhLanf5QdwE/view?usp=sharing"
+                          activeClassName="active"
+                        >
+                          <a
+                            onClick={toggleNavbar}
+                            className="nav-link"
+                            target="_blank"
+                          >
+                            Press Release 2023
                           </a>
                         </Link>
                       </li>
@@ -164,20 +166,6 @@ const NavbarStyleTwo = () => {
                     <ul className="dropdown-menu">
                       <li className="nav-item">
                         <Link
-                          href="https://drive.google.com/drive/folders/1DuNcQ9B_iEZ5S2goKD5jBQb8noa_MxpS?usp=sharing"
-                          activeClassName="active"
-                        >
-                          <a
-                            onClick={toggleNavbar}
-                            className="nav-link"
-                            target="_blank"
-                          >
-                            Curation 2023
-                          </a>
-                        </Link>
-                      </li>
-                      <li className="nav-item">
-                        <Link
                           href="https://drive.google.com/drive/folders/1_SPW8Ez2fjU301tbjBcrCl5VzzckU_vo?usp=sharing"
                           activeClassName="active"
                         >
@@ -187,6 +175,20 @@ const NavbarStyleTwo = () => {
                             target="_blank"
                           >
                             Curation 2024
+                          </a>
+                        </Link>
+                      </li>
+                      <li className="nav-item">
+                        <Link
+                          href="https://drive.google.com/drive/folders/1DuNcQ9B_iEZ5S2goKD5jBQb8noa_MxpS?usp=sharing"
+                          activeClassName="active"
+                        >
+                          <a
+                            onClick={toggleNavbar}
+                            className="nav-link"
+                            target="_blank"
+                          >
+                            Curation 2023
                           </a>
                         </Link>
                       </li>
@@ -205,21 +207,7 @@ const NavbarStyleTwo = () => {
                     <ul className="dropdown-menu">
                       <li className="nav-item">
                         <Link
-                          href="https://drive.google.com/file/d/1EdXehE5LICfaWHsmkZPyB4DPvIaFSlD1/view?usp=sharing"
-                          activeClassName="active"
-                        >
-                          <a
-                            onClick={toggleNavbar}
-                            className="nav-link"
-                            target="_blank"
-                          >
-                            List of Winner 2023
-                          </a>
-                        </Link>
-                      </li>
-                      <li className="nav-item">
-                        <Link
-                          href="https://drive.google.com/file/d/1EdXehE5LICfaWHsmkZPyB4DPvIaFSlD1/view?usp=sharing"
+                          href="https://drive.google.com/file/d/1sYfF3FbzEgVutvfLA7YmtJNjp7kxhH5Q/view?usp=drive_link"
                           activeClassName="active"
                         >
                           <a
@@ -228,6 +216,20 @@ const NavbarStyleTwo = () => {
                             target="_blank"
                           >
                             List of Winner 2024
+                          </a>
+                        </Link>
+                      </li>
+                      <li className="nav-item">
+                        <Link
+                          href="https://drive.google.com/file/d/1BCujrVobYZaZVmPru5HujhD_Jr3P7XtC/view?usp=drive_link"
+                          activeClassName="active"
+                        >
+                          <a
+                            onClick={toggleNavbar}
+                            className="nav-link"
+                            target="_blank"
+                          >
+                            List of Winner 2023
                           </a>
                         </Link>
                       </li>
