@@ -4,11 +4,6 @@ import GoTop from './GoTop';
 // import Preloader from './Preloader';
 
 const Layout = ({ children }) => {
-  // Preloader
-  // const [loader, setLoader] = React.useState(true);
-  // React.useEffect(() => {
-  //   setTimeout(() => setLoader(false), 1500);
-  // }, []);
 
   return (
     <>
